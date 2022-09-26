@@ -1,6 +1,6 @@
 # Contador
 
-![preview](./.github/preview.png)
+![preview](.github/preview.png)
 [🔗 Clique aqui para acessar](https://biogmmorais.github.io/Contador/)
 
 > Curso em Vídeo (Youtube)
